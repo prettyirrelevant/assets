@@ -2,3 +2,8 @@ INSERT INTO asset_collections(id, name, symbol, main_asset) VALUES (349, "Bold S
 *
 INSERT INTO asset_collections(id, name, symbol, main_asset) VALUES (350, "SPX6900", "SPX", "eip155:1/erc20:0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C");
 *
+INSERT INTO asset_collections(id, name, symbol) VALUES (351, "OMI Token", "OMI");
+*
+INSERT INTO asset_collections(id, name, symbol) VALUES (352, "Animecoin", "ANIME");
+*
+INSERT INTO asset_collections(id, name, symbol) VALUES (353, "Polyhedra Network", "ZKJ");

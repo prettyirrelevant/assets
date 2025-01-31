@@ -12,7 +12,7 @@
       "min_schema_version": 9
     },
     "35": {
-      "changes": 14,
+      "changes": 35,
       "max_schema_version": 10,
       "min_schema_version": 10
     },
